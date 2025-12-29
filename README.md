@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Sergio 👋
 
-<!--
-**salarcon-dev/salarcon-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👷‍♂️ Civil Engineer (PUCP)  
+📊 Data Analyst in training (TripleTen)
 
-Here are some ideas to get you started:
+🔍 Interested in data analytics applied to engineering and infrastructure  
+📚 Currently learning Python, pandas, statistics and data visualization  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tools & Skills
+- Python (pandas, NumPy, matplotlib)
+- SQL
+- Jupyter Notebook
+- Excel
+- Git & GitHub
+
+### 📂 Projects
+- Exploratory Data Analysis projects
+- A/B testing analysis
+- Data-driven case studies
+
+🌱 Always learning and improving
